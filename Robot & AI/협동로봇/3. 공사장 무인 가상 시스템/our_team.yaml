@@ -1,0 +1,6 @@
+# 절대 경로 지정
+path: /home/seongjae/Robotics/Rokey/두산로보틱스_프로젝트/협동_3/yolo_webcam_model/arm_image
+train: /home/seongjae/Robotics/Rokey/두산로보틱스_프로젝트/협동_3/yolo_webcam_model/arm_image/train/images
+val: /home/seongjae/Robotics/Rokey/두산로보틱스_프로젝트/협동_3/yolo_webcam_model/arm_image/val/images
+names:
+  0: red
