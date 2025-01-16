@@ -1,0 +1,7 @@
+# Request
+int32 table_num 
+string menu
+int32 quantity
+---
+#response
+bool accept

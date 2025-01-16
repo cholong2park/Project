@@ -1,0 +1,7 @@
+# Request
+#kitchen_display
+string menu
+---
+# Response
+# table_monitor
+bool accept
